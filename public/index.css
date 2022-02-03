@@ -1,0 +1,29 @@
+body{
+    background-color: #834df0;
+}
+
+
+#body-div{
+    display: inline-block;
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    padding: 20px;
+    position: absolute;
+    top: 43%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#submit-input{
+    background-color: #834df0;
+    color: white; 
+    height: 40px;
+    width: 115px;
+    border: none;
+    border-radius: 8px;
+}
+
+#submit-input:hover {
+    background-color: #613ab0;
+}
