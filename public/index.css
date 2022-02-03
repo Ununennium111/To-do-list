@@ -15,7 +15,7 @@ body{
     transform: translate(-50%, -50%);
 }
 
-#submit-input{
+#submit-button{
     background-color: #834df0;
     color: white; 
     height: 40px;
